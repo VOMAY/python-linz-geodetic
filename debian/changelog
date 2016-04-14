@@ -1,3 +1,9 @@
+python-linz-geodetic (1.7.1-3linz~trusty1) trusty; urgency=medium
+
+  * Python 3 build dependencies update
+
+ -- Ivan Mincik <imincik@linz.govt.nz>  Fri, 15 Apr 2016 09:33:03 +1200
+
 python-linz-geodetic (1.7.1-2linz~trusty1) trusty; urgency=medium
 
   * Rebuild request due invalid source package upload
